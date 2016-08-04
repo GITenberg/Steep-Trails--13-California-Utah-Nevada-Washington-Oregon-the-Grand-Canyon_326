@@ -1,0 +1,43 @@
+_repo: Steep-Trails--13-California-Utah-Nevada-Washington-Oregon-the-Grand-Canyon_326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Muir, John
+    birthdate: 1838
+    deathdate: 1914
+    gutenberg_agent_id: '180'
+    url: http://www.gutenberg.org/2009/agents/180
+    wikipedia: http://en.wikipedia.org/wiki/John_Muir
+  editor:
+    agent_name: Badè, William Frederic
+    alias: Bade, William Frederic
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '34290'
+    url: http://www.gutenberg.org/2009/agents/34290
+description: ''
+gutenberg_issued: '1995-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Forests and forestry -- West (U.S.)'
+- !lcsh 'Shasta, Mount (Calif. : Mountain)'
+- !lcsh 'West (U.S.) -- Description and travel'
+- GITenberg
+tableOfContents: Wild wool -- A geologist's winter walk -- Summer days at Mount Shasta
+  -- A perilous night on Shasta's summit -- Shasta rambles and Modoc memories -- The
+  city of the Saints -- A great storm in Utah -- Bathing in Salt Lake-- Mormon lilies
+  -- The San Gabriel Valley -- The San Gabriel Mountains -- Nevada farms -- Nevada
+  forests -- Nevada's timber belt -- Glacial phenomena in Nevada -- Nevada's dead
+  towns -- Puget Sound -- The forests of Washington --People and towns of Puget Sound
+  -- An ascent of Mount Rainier -- The physical and climatic characteristics of Oregon
+  -- The forests of Oregon and their inhabitants -- The rivers of Oregon -- The Grand
+  Canyon of the Colorado.
+title: "Steep Trails\r\nCalifornia, Utah, Nevada, Washington, Oregon, the Grand Canyon"
+url: http://www.gutenberg.org/ebooks/326
