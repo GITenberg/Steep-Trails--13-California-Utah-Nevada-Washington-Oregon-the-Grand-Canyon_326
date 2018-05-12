@@ -1,5 +1,8 @@
 _repo: Steep-Trails--13-California-Utah-Nevada-Washington-Oregon-the-Grand-Canyon_326
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Muir, John
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '34290'
     url: http://www.gutenberg.org/2009/agents/34290
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/326#Steep-Trails--13-California-Utah-Nevada-Washington-Oregon-the-Grand-Canyon
 gutenberg_issued: '1995-09-01'
 gutenberg_type: Text
 identifiers:
